@@ -125,5 +125,5 @@ pipeline {
                 , message: "${JOB_NAME} (${BUILD_NUMBER}) 빌드가 실패하였습니다. Details: (<${BUILD_URL} | here >)")
     }
   }
-}
+} 
 
